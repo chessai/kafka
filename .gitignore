@@ -1,0 +1,5 @@
+result*
+dist*
+stack.yaml
+.stack-work
+*.ghc*
